@@ -1,10 +1,4 @@
-<h1> Hi < Developers/ >! </h1>
-<p align='center'>
-</p>
-
-
-<div size='20px'> My name is Niyi. </div>
-
+<h1> Hi, my name is Niyi! </h1>
 <h2> About Me </h2>
 
 - 🔭 I’m currently a student
