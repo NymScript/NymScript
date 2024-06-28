@@ -7,7 +7,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently Soy Estudiante
   
 - 🌱 I’m currently learning Git, Java y GitHub
   
