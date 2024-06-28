@@ -1,6 +1,5 @@
 <h2> Hi there, I'm Niyi </h2>
-I am a student of Software Analysis and Development (Technologist), I am currently doing my internship. 
-My main goal is to become a Full Stack developer. I am also working on improving my soft skills. 
+I am a Software Analysis and Development student (Technologist), currently doing my internship. My main goal is to become a Full Stack Developer. I am also working on improving my soft skills.
 <h2> About Me </h2>
 
   
