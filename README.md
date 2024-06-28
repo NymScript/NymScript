@@ -1,8 +1,6 @@
 <h2> Hi there, I'm Niyi </h2>
 I am a Software Analysis and Development student (Technologist), currently doing my internship. My main goal is to become a Full Stack Developer. I am also working on improving my soft skills.
-<h2> About Me </h2>
 
-  
 - 🌱 I’m currently learning Git, Java y GitHub
   
 - ⚡ Hobby: Study mathematics
