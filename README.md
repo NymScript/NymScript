@@ -2,6 +2,8 @@
 I am a Software Analysis and Development student (Technologist), currently doing my internship. My main goal is to become a Full Stack Developer. I am also working on improving my soft skills.
 
 - 🌱 I’m currently learning Git, Java y GitHub
+
+- 💻 I'm currently attending a basic Full Stack Web Development Bootcamp with <a href="https://talentotechbogota.co/">Talento Tech.</a>
   
 - ⚡  Hobbies: Studying math, reading and playing video games.
 
