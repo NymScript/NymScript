@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Niyi </h2>
-I'm a technologist in software analysis and development, my main goal is to become a Full Stack Developer specialized in web and mobile development. I am also working on improving my soft skills.
+I'm a technologist in software analysis and development, my main goal is to become a FullStack Developer specialized in web and mobile development. I am also working on improving my soft skills.
 
 - 🌱 I’m currently learning Python, Git and GitHub
 
