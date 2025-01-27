@@ -1,15 +1,14 @@
 <h2> Hi there, I'm Niyi </h2>
-I'm a Software Analysis and Development student (Technologist), currently doing my internship. My main goal is to become a Full Stack Developer specialized in web and mobile development. I am also working on improving my soft skills.
+I'm a technologist in software analysis and development, my main goal is to become a Full Stack Developer specialized in web and mobile development. I am also working on improving my soft skills.
 
-- 🌱 I’m currently learning Flutter, Java, Git and GitHub
+- 🌱 I’m currently learning Python, Git and GitHub
 
-- 💻 I'm currently attending a basic Full Stack Web Development Bootcamp with <a href="https://talentotechbogota.co/">Talento Tech.</a>
+- 💻 I'm currently working as an automation developer and bot creation
   
 - ⚡  Hobbies: Studying math, reading and playing video games.
 
 <h2> Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= # > <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href= # > <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
 
@@ -21,7 +20,7 @@ I'm a Software Analysis and Development student (Technologist), currently doing 
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= # > <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= # > <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-
+<a href= # > <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 
 
 <h2> Contact </h2>
