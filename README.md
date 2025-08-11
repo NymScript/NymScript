@@ -3,7 +3,7 @@ I'm a technologist in software analysis and development, my main goal is to beco
 
 - 🌱 I’m currently learning Python, Git and GitHub
 
-- 💻 I'm currently working as an automation developer and bot creation
+- 💻 I'm currently studying English at Smart Academy.
   
 - ⚡  Hobbies: Studying math, reading and playing video games.
 
