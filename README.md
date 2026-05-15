@@ -1,11 +1,10 @@
 <h2> Hi there, I'm Niyi </h2>
-I'm a technologist in software analysis and development, my main goal is to become a FullStack Developer specialized in web and mobile development. I am also working on improving my soft skills.
+I’m a Software Analysis and Development Technologist currently pursuing a degree in Systems Engineering at Corporación Universitaria Minuto de Dios.
+My goal is to specialize as a Python Developer focused on automation and web development. I’m passionate about technology, continuous learning, and improving both my technical and soft skills.
 
-- 🌱 I’m currently learning Python, Git and GitHub
+- 🌱 Currently learning Python, automation, web technologies
 
 - 💻 I'm currently studying English at Smart Academy.
-  
-- ⚡  Hobbies: Studying math, reading and playing video games.
 
 <h2> Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
